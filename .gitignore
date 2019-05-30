@@ -328,3 +328,13 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/.vscode/settings.json
+/assets
+/modules/BlobService/app/example.py
+/modules/BlobService/test
+/modules/CameraCapture/test
+/modules/ImageClassifierService/app/apples and bananas model
+/modules/ImageClassifierService/app/fruits model
+/modules/LEDDisplay
+/modules/xLEDDisplay
+/modules/SenseHatDisplay
